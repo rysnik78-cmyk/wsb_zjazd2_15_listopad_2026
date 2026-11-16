@@ -3,8 +3,7 @@ Utwórz pustą klasę Kot. Następnie utwórz jej obiekt i wyświetl go na ekran
 Wskazówka: w pustej klasie użyj instrukcji pass.'''
 
 class Kot():
-    def __init__(self):
-        pass
+    pass
 
 kot_pierwszy = Kot()
 print(kot_pierwszy)
